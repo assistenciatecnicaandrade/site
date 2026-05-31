@@ -35,4 +35,4 @@ Site institucional da **Vitor Andrade Assistência Técnica** — serviços espe
 
 ---
 
-© 2025 Vitor Andrade Assistência Técnica - Made by: pynexus
+© 2025 Vitor Andrade Assistência Técnica - Made by https://github.com/caiopolak
